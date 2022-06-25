@@ -1,4 +1,17 @@
-### Hi there 👋
+## nReus/sviiseven
+_Best procrastinator you'll never meet._
+
+### VNs:
+- Snowy Ryujin 
+  - Engine / Image editor (Snow Presents, ASFOS Restoration Patch)
+- project.orca 
+  - TL / Editor / Engine
+        
+### Manga:  
+- //synapse. 
+  - All-round scanlator
+- Chibi Multiverse 
+  - TL / Typesetting
 
 <!--
 **nReus/nReus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
