@@ -1,15 +1,15 @@
 ## nReus/sviiseven
-_Best procrastinator you'll never meet._
+_Do you know who **ELSE** has time to do anything?_
+
+---
 
 ### VNs:
 - Studio Frisay
-  - Image editor / Video editor (Imaimo, H2O)
+  - Image editor / Video editor (Imaimo, H2O, Waremete)
 - Snowy Ryujin 
   - Engine / Image editor (Snow Presents, ASFOS Restoration Patch)
 - Nakanoista
-  - Script extraction / Translator-Editor / Video editor
-- project.orca 
-  - TL / Editor / Engine
+  - Script extraction / Tooling / Translator-Editor / Video editor
         
 ### Manga:  
 - //synapse. 
